@@ -35,7 +35,9 @@ The objective of this project was to show how raw data can be transformed into m
 ### 3️⃣ Pivot Tables & Interactive Dashboards
 - 📈 Built **Pivot Tables** to analyze sales by product category, region, and customer segment.  
 - 📊 Created **Pivot Charts** to visualize key KPIs (revenue trends, top products, regional performance).  
-- 🖱️ Used **Slicers** for interactive filtering, allowing end-users to drill down into the data with a single click.  
+- 🖱️ Used **Slicers** for interactive filtering, allowing end-users to drill down into the data with a single click.
+- <img width="3329" height="1096" alt="image" src="https://github.com/user-attachments/assets/0277558b-0b74-497c-93f2-d9f9e0de4011" />
+
 
 
 ---
