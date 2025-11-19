@@ -1,5 +1,5 @@
 
-# 📊 Retail-Sales-Dataset-Project
+# 📊 Excel-Retail-Sales-Dataset-Project
 
 ## 🔎 Project Overview
 This project demonstrates my ability to clean, analyze, and visualize sales data using **Microsoft Excel**. The dataset contains sales transactions, and I used a range of Excel features to perform calculations, build summaries, and create interactive reports.  
